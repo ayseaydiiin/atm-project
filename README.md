@@ -15,8 +15,4 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilmiş basit ama gelişmiş �
 
 ---
 
-## Kurulum ve Çalıştırma
 
-1. Python 3 yüklü olmalıdır. [Python resmi sitesi](https://www.python.org/downloads/)  
-2. Gerekli kütüphaneler zaten Python ile birlikte gelir (Tkinter standart kütüphanedir).  
-3. Proje dosyasını indirin veya klonlayın:
